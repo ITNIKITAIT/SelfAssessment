@@ -1,95 +1,89 @@
 ## Asynchronous programming
 
-- Theory
-  - Event loop: 🎓 known
-  - try..catch: 🖐️ used
-  - Non-blocking: 🎓 known
-  - Async I/O: 🖐️ used
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming: 🎓 known
-  - Actor Model
-  - Thread
-  - Process: 🎓 known
-- Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first
-  - Thenable: 🖐️ used
-  - Promise: 🖐️ used
-  - Async/await: 🖐️ used
-  - Future: 👂 heard
-  - Deferred
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 🎓 known
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream: 👂 heard
-  - Chain of responsibility: 👂 heard
-  - Middleware
-  - Locks
-- Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose: 🎓 known
-  - async compose: 🎓 known
-- Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform
-  - Async Pool
-  - Async Queue: 🎓 known
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
-- JavaScript & Node.js specific
-  - Timers: 🖐️ used
-  - setImmediate: 🎓 known
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection: 👂 heard
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code: 🖐️ used
-  - Better stack traces with return await
-  - JSON: streaming serialization: 🖐️ used
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
-- Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 👂 heard
-  - Promise.race: 👂 heard
-  - Promise.any: 🎓 known
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+-   Theory
+    -   Event loop: 🎓 known
+    -   `try..catch`: 🖐️ used
+    -   Non-blocking: 🎓 known
+    -   Async I/O: 🖐️ used
+    -   Thread pool
+    -   Pattern Reactor
+    -   CAS operations
+    -   epoll
+    -   kqueue
+    -   Completion ports
+    -   Event ports
+    -   libuv
+    -   Race conditions
+    -   Dead locks
+    -   Live locks
+    -   Concurrent programming
+    -   Parallel programming: 🎓 known
+    -   Actor Model
+    -   Thread
+    -   Process: 🎓 known
+-   Async contracts
+    -   Callbacks: 🖐️ used
+    -   Callback-last-error-first
+    -   Thenable: 🖐️ used
+    -   Promise: 🖐️ used
+    -   Async/await: 🖐️ used
+    -   Future: 👂 heard
+    -   Deferred
+    -   Sync generator: 👂 heard
+    -   Async Generator: 👂 heard
+    -   Async Iterator: 👂 heard
+    -   Event: 🎓 known
+    -   Coroutine
+    -   Goroutine
+    -   Signal
+    -   Stream: 👂 heard
+    -   Chain of responsibility: 👂 heard
+    -   Middleware
+    -   Locks
+-   Async adapters and utils
+    -   callbackify
+    -   promisify
+    -   asyncify
+    -   Callbacks compose: 🎓 known
+    -   Async compose: 🎓 known
+-   Async abstractions interfaces
+    -   EventEmitter: 🎓 known
+    -   Observable/Observer
+    -   Readable: 👂 heard
+    -   Writable: 👂 heard
+    -   Transform
+    -   Async Pool
+    -   Async Queue: 🎓 known
+    -   Async Collector
+    -   Semaphore
+    -   Mutex
+    -   Spin Lock
+-   JavaScript & Node.js specific
+    -   Timers: 🖐️ used
+    -   `setImmediate`: 🎓 known
+    -   `nextTick`
+    -   AbortController
+    -   AbortSignal
+    -   Promise unhandled rejection: 👂 heard
+    -   Promise double resolve
+    -   Atomics
+    -   High resolution clock
+    -   Callback hell
+    -   Promise hell
+    -   ref() and unref()
+    -   Error handling in async code: 🖐️ used
+    -   Better stack traces with return await
+    -   JSON streaming serialization: 🖐️ used
+    -   AsyncLocalStorage
+    -   AsyncResource
+-   Techniques
+    -   Async.js library
+    -   RxJS library
+    -   Promise.all: 🎓 known
+    -   Promise.allSettled: 👂 heard
+    -   Promise.race: 👂 heard
+    -   Promise.any: 🎓 known
+    -   Web Locks API
+    -   IPC
+    -   Channel API
+    -   Revealing constructor
