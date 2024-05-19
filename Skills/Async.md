@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
-  - `try..catch`: 🖐️ used
-  - Non-blocking: 🎓 known
-  - Async I/O: 🖐️ used
+  - Event loop e
+  - `try..catch` u
+  - Non-blocking k
+  - Async I/O u
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -17,40 +17,40 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming: 🎓 known
+  - Parallel programming k
   - Actor Model
-  - Thread
-  - Process: 🎓 known
+  - Thread k
+  - Process k
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first
+  - Callbacks: e
+  - Callback-last-error-first u
   - Thenable: 🖐️ used
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future: 👂 heard
-  - Deferred
+  - Deferred: 👂 heard
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
   - Event: 🎓 known
-  - Coroutine
-  - Goroutine
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility: 👂 heard
-  - Middleware
+  - Middleware h
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose: 🎓 known
-  - Async compose: 🎓 known
+  - callbackify h
+  - promisify h
+  - asyncify h
+  - Callbacks compose: u
+  - Async compose: u
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
-  - Observable/Observer
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Observable/Observer k
+  - Readable: u
+  - Writable: u
   - Transform
   - Async Pool
   - Async Queue: 🎓 known
@@ -60,16 +60,16 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate`: 🎓 known
-  - `nextTick`
+  - `setImmediate`: u
+  - `nextTick` u
   - AbortController
   - AbortSignal
   - Promise unhandled rejection: 👂 heard
-  - Promise double resolve
-  - Atomics
+  - Promise double resolve h
+  - Atomics h
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell k
+  - Promise hell k
   - ref() and unref()
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 👂 heard
-  - Promise.race: 👂 heard
-  - Promise.any: 🎓 known
+  - Promise.all u
+  - Promise.allSettled u
+  - Promise.race k
+  - Promise.any k
   - Web Locks API
   - IPC
   - Channel API

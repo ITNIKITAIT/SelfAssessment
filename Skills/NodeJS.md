@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Event loop phases k
+  - Event loop microtasks and macrotasks k
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🖐️ used
-  - Module `node:module`
+  - Module `node:module` u
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,12 +26,12 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI: 👂 heard
+  - Command line arguments k
+  - Node.js CLI k
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch k
 - Internal API
   - Streams API
   - Web Streams API
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici u
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -55,7 +55,7 @@
   - BroadcastChannel
   - Generating crypto random UUID
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:assert` u
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API k
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) k
   - TCP/SSL
   - UDP
   - TLS
@@ -89,41 +89,41 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
-  - Logging
+  - Native test runner u
+  - Logging u
   - Application configuring
-  - Testing
+  - Testing u
   - CI/CD
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Readable: u
+  - Writable: u
   - Transform
   - Back pressure
   - Buffer
   - Console: 🖐️ used
-  - Inspector
+  - Inspector u
 - Data access
   - Data access layer
-  - Repository
+  - Repository k
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
-  - DTO
+  - DTO k
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` u
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
+  - How to avoid mixins h
+  - Uncaught exceptions k
   - Heap dump
   - Debugging tools
   - Flame graph
   - Memory leaks
   - Resource leaks
-  - Data race
+  - Data race h
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
