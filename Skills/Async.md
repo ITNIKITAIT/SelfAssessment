@@ -1,7 +1,7 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
+  - Event loop: 🙋 explained
   - `try..catch`: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🖐️ used
@@ -19,38 +19,38 @@
   - Concurrent programming
   - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
+  - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🖐️ used
   - Thenable: 🖐️ used
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future: 👂 heard
-  - Deferred
+  - Deferred: 👂 heard
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
   - Event: 🎓 known
-  - Coroutine
-  - Goroutine
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility: 👂 heard
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose: 🎓 known
-  - Async compose: 🎓 known
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
-  - Observable/Observer
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Observable/Observer: 🎓 known
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool
   - Async Queue: 🎓 known
@@ -60,16 +60,16 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate`: 🎓 known
-  - `nextTick`
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection: 👂 heard
-  - Promise double resolve
-  - Atomics
+  - Promise double resolve: 👂 heard
+  - Atomics: 👂 heard
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref()
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
@@ -79,9 +79,9 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 👂 heard
-  - Promise.race: 👂 heard
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🎓 known
   - Promise.any: 🎓 known
   - Web Locks API
   - IPC

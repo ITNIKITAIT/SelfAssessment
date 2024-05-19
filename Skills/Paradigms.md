@@ -9,11 +9,11 @@
   - Prototype-based programming
   - Object-oriented programming: 🎓 known
   - Object-based programming: 👂 heard
-  - Generic programming
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asyncronous programming 🎓 known
-  - Parallel programming 🎓 known
-  - Reactive programming
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -31,23 +31,23 @@
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method: 👂 heard
-  - Getters, Setters: 🎓 known
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
-  - Polymorphism
+  - Polymorphism: 🖐️ used
   - Abstract class: 👂 heard
   - Interface: 👂 heard
-  - Encapsulation
+  - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
   - Object form
   - Instance: 🖐️ used
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton: 🎓 known
   - Factory Method: 👂 heard
-  - Abstract Factory
+  - Abstract Factory: 👂 heard
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
-  - Facade
+  - Facade: 👂 heard
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator
-  - State
+  - Iterator: 🎓 known
+  - State: 🎓 known
   - Bridge
   - Builder
   - Prototype: 🎓 known
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 👂 heard
   - Visitor
   - Reactor
-  - Active object
-  - Delegation
+  - Active object: 👂 heard
+  - Delegation: 🎓 known

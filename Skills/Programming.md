@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 🎓 known
+  - Modeling: 🎓 known
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
+  - Module: 🎓 known
+  - Library: 🎓 known
   - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Component: 🎓 known
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 👂 heard
 - Syntax and concepts
   - Value: 🙋 explained
   - Identifier: 🙋 explained
@@ -44,8 +44,8 @@
   - Procedure: 🖐️ used
   - Method: 🖐️ used
   - Class: 🖐️ used
-  - Prototype: 🎓 known
-  - Event: 🎓 known
+  - Prototype: 🖐️ used
+  - Event: 🖐️ used
   - Type: 🙋 explained
   - Flag: 🖐️ used
   - Lexical scope: 🎓 known
@@ -54,30 +54,30 @@
   - Loops: 🖐️ used
   - Assignment: 🖐️ used
   - Eegular expression: 🖐️ used
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Interface: 🎓 known
+  - Namespaces: 👂 heard
+  - Call stack: 🎓 known
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🖐️ used
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
+  - Type systems: 🎓 known
+  - Strong typing: 🎓 known
+  - Weak typing: 🎓 known
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
-  - Structural typing
+  - Structural typing: 🎓 known
   - Explicit typing
-  - Type inference
+  - Type inference: 👂 heard
   - Covariance
   - Contravariance
 - Functions
@@ -87,153 +87,153 @@
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 🖐️ used
-  - Closure: 🖐️ used
-  - Partial application: 👂 heard
-  - Curry: 👂 heard
-  - Higher order: 👂 heard
+  - Closure: 🙋 explained
+  - Partial application: 🖐️ used
+  - Curry: 🖐️ used
+  - Higher order: 🖐️ used
   - Recursion: 🖐️ used
-  - Tail call optimisation
+  - Tail call optimisation: 👂 heard
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: 🖐️ used
   - Pipe: 🖐️ used
   - Memoize: 🎓 known
-  - Wrapper: 🎓 known
-  - Functor: 👂 heard
-  - Monad: 👂 heard
-  - Monoid: 👂 heard
+  - Wrapper: 🖐️ used
+  - Functor: 🖐️ used
+  - Monad: 🎓 known
+  - Monoid: 🎓 known
   - Generator: 🎓 known
   - Coroutine
 - Data structures
   - Array: 🙋 explained
   - Structure: 🎓 known
   - Record: 🎓 known
-  - Enum: 👂 heard
+  - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
-  - Collection: 🎓 known
+  - Collection: 🖐️ used
   - Set: 🖐️ used
   - Hash table: 🎓 known
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
+  - Unrolled list: 🎓 known
+  - Circular list: 🎓 known
   - Queue: 🎓 known
-  - Stack: 🎓 known
+  - Stack: 🙋 explained
   - Deque: 🎓 known
-  - Tree: 👂 heard
-  - Graph: 👂 heard
+  - Tree: 🎓 known
+  - Graph: 📢 talked
   - Iterator: 🖐️ used
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
   - Serialization: 🖐️ used
-  - String parsing: 👂 heard
-  - JSON
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - DNS: 🎓 known
+  - CDN: 🎓 known
+  - CORS: 👂 heard
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler: 🎓 known
+  - Just-in-time compilation: 🎓 known
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
+  - Transpiler: 🎓 known
+  - Linter: 🖐️ used
+  - Polyfill: 🎓 known
+  - Interpreter: 🎓 known
+  - Linker: 👂 heard
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🎓 known
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Garbage collection: 👂 heard
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
+  - Exception: 🎓 known
+  - Unittesting: 🎓 known
+  - git: 🎓 known
+  - Github: 🎓 known
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 🎓 known
+  - Accidental complexity: 🎓 known
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
-  - Accumulate and fire
-  - Use switch/case
-  - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
-  - Feature envy
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
+  - Not invented here: 🎓 known
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
+  - Premature optimization: 🎓 known
+  - Micro-optimization: 🎓 known
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
+  - Pass-through parameters: 🎓 known
+  - Accumulate and fire: 🎓 known
+  - Use switch/case: 🎓 known
+  - Temporary field: 🎓 known
+  - Handle object as instances and hashes at the same time: 🎓 known
+  - Use fields instead of arguments: 🎓 known
+  - Data clump: 🎓 known
+  - Feature envy: 🎓 known
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
-  - VJM
+  - Bytecode: 👂 heard
+  - V8: 🎓 known
+  - VJM: 👂 heard
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel
   - Ring
-  - Virtual memory
+  - Virtual memory: 👂 heard
   - File system
-  - Linux
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64: 👂 heard
+  - ECMA: 🎓 known
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🎓 known
   - W3C
   - ODMG
