@@ -9,11 +9,11 @@
   - Prototype-based programming
   - Object-oriented programming: 🎓 known
   - Object-based programming: 👂 heard
-  - Generic programming h
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asyncronous programming 🎓 known
-  - Parallel programming 🎓 known
-  - Reactive programming k
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -45,9 +45,9 @@
   - Hidden class: 👂 heard
   - Object form
   - Instance: 🖐️ used
-  - Introspection k
-  - Reflection k
-  - The diamond problem h
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 👂 heard
 - GRASP
   - Information expert
   - Creator
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton k
+  - Singleton: 🎓 known
   - Factory Method: 👂 heard
-  - Abstract Factory h
+  - Abstract Factory: 👂 heard
   - Adapter
-  - Observer h
+  - Observer: 👂 heard
   - Strategy
-  - Facade h
+  - Facade: 👂 heard
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator k
-  - State k
+  - Iterator: 🎓 known
+  - State: 🎓 known
   - Bridge
   - Builder
   - Prototype: 🎓 known
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
-  - Template Method h
+  - Template Method: 👂 heard
   - Visitor
   - Reactor
-  - Active object h
-  - Delegation k
+  - Active object: 👂 heard
+  - Delegation: 🎓 known

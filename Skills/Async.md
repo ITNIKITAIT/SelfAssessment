@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop e
-  - `try..catch` u
-  - Non-blocking k
-  - Async I/O u
+  - Event loop: 🙋 explained
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -17,13 +17,13 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming k
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread k
-  - Process k
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks: e
-  - Callback-last-error-first u
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🖐️ used
   - Thenable: 🖐️ used
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
@@ -38,19 +38,19 @@
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility: 👂 heard
-  - Middleware h
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify h
-  - promisify h
-  - asyncify h
-  - Callbacks compose: u
-  - Async compose: u
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
-  - Observable/Observer k
-  - Readable: u
-  - Writable: u
+  - Observable/Observer: 🎓 known
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool
   - Async Queue: 🎓 known
@@ -60,16 +60,16 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate`: u
-  - `nextTick` u
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection: 👂 heard
-  - Promise double resolve h
-  - Atomics h
+  - Promise double resolve: 👂 heard
+  - Atomics: 👂 heard
   - High resolution clock
-  - Callback hell k
-  - Promise hell k
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref()
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all u
-  - Promise.allSettled u
-  - Promise.race k
-  - Promise.any k
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🎓 known
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API
