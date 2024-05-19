@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop: 🎓 known
+  - try..catch: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -17,54 +17,54 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 🎓 known
   - Actor Model
   - Thread
-  - Process
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
+  - Stream: 👂 heard
+  - Chain of responsibility: 👂 heard
   - Middleware
   - Locks
 - Async adapters and utils
   - callbackify
   - promisify
   - asyncify
-  - callbacks compose
-  - async compose
+  - callbacks compose: 🎓 known
+  - async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🎓 known
   - Observable/Observer
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Async Pool
-  - Async Queue
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers: 🖐️ used
+  - setImmediate: 🎓 known
   - nextTick
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection: 👂 heard
   - Promise double resolve
   - child_process
   - worker_threads
@@ -73,9 +73,9 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🖐️ used
   - promisify
   - callbackify
   - AsyncLocalStorage
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: 🎓 known
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API
